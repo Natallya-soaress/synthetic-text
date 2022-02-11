@@ -1,6 +1,6 @@
 import numpy as np
 
-text = open(r'Positivos.txt', encoding='utf8').read()
+text = open(r'text.txt', encoding='utf8').read()
 
 corpus = text.split()
 
